@@ -1,0 +1,12 @@
+/* syntax*/
+/*this is external css*/
+/* least priority */
+pre{
+    font:16px;
+    Background-color:green;
+    
+}
+p{
+    font:20px;
+    background-color: aquamarine;
+}
